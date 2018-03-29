@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^1.2.4",
+    "webpack": "^4.3.0",
+    "webpack-cli": "^2.0.13"
+  }
+}
