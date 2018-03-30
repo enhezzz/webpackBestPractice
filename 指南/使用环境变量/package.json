@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+    "build": "webpack --env.NODE_ENV=local --env.production --progress"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
